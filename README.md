@@ -1,5 +1,6 @@
 # 🌟 SignalSense
-
+## Live Demo 🚀
+[![Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://signalsense.streamlit.app)
 ## Project Overview
 
 SignalSense is a Python desktop/web application that allows users to simulate various real-world signals, introduce noise to mimic interference, and then effectively clean these signals using digital filters. The application provides intuitive visualizations (time-domain and frequency-domain plots) to demonstrate the signal's state at each stage (raw, noisy, and filtered).
