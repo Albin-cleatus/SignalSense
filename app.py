@@ -37,8 +37,6 @@ st.title("\U0001F31F SignalSense: Signal Simulation & Filtering")
 st.markdown("Simulate, add noise, filter, and visualize signals in real-time!")
 
 # Footer credit
-st.markdown("---")
-st.markdown("Developed by [Albin Cleatus](https://www.linkedin.com/in/albincleatus)", unsafe_allow_html=True)
 
 # --- Sidebar Controls ---
 st.sidebar.header("Signal Parameters")
