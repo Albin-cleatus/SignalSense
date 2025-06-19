@@ -33,7 +33,7 @@ def compute_fft(signal_input, sample_rate):
 
 # --- Streamlit App ---
 st.set_page_config(layout="wide", page_title="SignalSense: Signal Simulation & Filtering")
-st.title("\U0001F31F SignalSense: Signal Simulation & Filtering")
+st.title(" SignalSense: Signal Simulation & Filtering")
 st.markdown("Simulate, add noise, filter, and visualize signals in real-time!")
 
 # Footer credit
